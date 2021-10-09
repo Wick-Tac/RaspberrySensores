@@ -1,2 +1,2 @@
 # RaspberrySensores
-Diagramas y código en raspberry
+Diagramas y código en raspberry.
